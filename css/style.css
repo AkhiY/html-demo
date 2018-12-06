@@ -1,0 +1,13 @@
+.wrap {
+    width:500px;
+    margin:auto;
+    background: yellow;
+    text-align: center
+}
+.content {
+    background: red;
+    float: left;
+}
+.aside {
+    background: pink;
+}

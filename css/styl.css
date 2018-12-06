@@ -1,0 +1,15 @@
+a{
+    color:green; 
+    text-decoration: none;
+}
+h1{
+    font-family: sans-serif;
+    margin: 50px;
+}
+div{
+    width: 600px;
+    margin: auto;
+    background-color: blue;
+    text-align: center;
+
+}
